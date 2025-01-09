@@ -1,6 +1,6 @@
 # FIFA 23 Player Data Analysis
 
-This project involves an analysis of the FIFA 19 player dataset, focusing on player characteristics, club performance, and league statistics. The dataset provides detailed information about over 18,000 football players, including their attributes, positions, club information, and market values. The analysis includes data cleaning, exploratory data analysis (EDA), and data visualization to uncover insights about football players from around the world.
+This project involves an analysis of the FIFA 23 player dataset, focusing on player characteristics, club performance, and league statistics. The dataset provides detailed information about over 18,000 football players, including their attributes, positions, club information, and market values. The analysis includes data cleaning, exploratory data analysis (EDA), and data visualization to uncover insights about football players from around the world.
 
 ## Project Overview
 
