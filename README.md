@@ -26,7 +26,7 @@ This project uses the **FIFA 23 Complete Player Dataset** to analyze and visuali
 
 ## Dataset
 
-The dataset used in this project is from Kaggle and is publicly available [here](https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset). It contains detailed information on FIFA 19 players, such as:
+The dataset used in this project is from Kaggle and is publicly available [here](https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset). It contains detailed information on FIFA 23 players, such as:
 
 - Player names
 - Positions
