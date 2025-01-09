@@ -4,7 +4,7 @@ This project involves an analysis of the FIFA 19 player dataset, focusing on pla
 
 ## Project Overview
 
-This project uses the **FIFA 19 Complete Player Dataset** to analyze and visualize various football-related statistics. The analysis covers the following key aspects:
+This project uses the **FIFA 23 Complete Player Dataset** to analyze and visualize various football-related statistics. The analysis covers the following key aspects:
 
 1. **Data Cleaning and Transformation**
    - Transformation of categorical variables into continuous variables.
